@@ -1,0 +1,651 @@
+
+Actual assignee: Bill Chen
+Suggested assignee list: 
+Srikanth Sankaran
+Stephan Herrmann
+Markus Keller
+Noopur Gupta
+Jay Arthanareeswaran
+Dani Megert
+Deepak Azad
+Ayushman Jain
+Olivier Thomann
+Timo Kinnunen
+Position in suggestion list: 86
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Noopur Gupta
+Deepak Azad
+Timo Kinnunen
+Jay Arthanareeswaran
+Ayushman Jain
+Olivier Thomann
+Position in suggestion list: 3
+Actual assignee: Till Brychcy
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Jay Arthanareeswaran
+Olivier Thomann
+Ayushman Jain
+Till Brychcy
+Position in suggestion list: 10
+Actual assignee: Till Brychcy
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Till Brychcy
+Deepak Azad
+Dani Megert
+Ayushman Jain
+Timo Kinnunen
+Position in suggestion list: 6
+Actual assignee: Steffen Pingel
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Deepak Azad
+Dani Megert
+Jay Arthanareeswaran
+Timo Kinnunen
+Ayushman Jain
+Olivier Thomann
+Position in suggestion list: 509
+Actual assignee: Roman Dawydkin
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Deepak Azad
+Dani Megert
+Ayushman Jain
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 330
+Actual assignee: EPP Error Reports
+Suggested assignee list: 
+EPP Error Reports
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Noopur Gupta
+Timo Kinnunen
+Deepak Azad
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Viktor Szathmáry
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Jay Arthanareeswaran
+Deepak Azad
+Timo Kinnunen
+Olivier Thomann
+Ayushman Jain
+Position in suggestion list: 1
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Jay Arthanareeswaran
+Olivier Thomann
+Ayushman Jain
+Timo Kinnunen
+Position in suggestion list: 2
+Actual assignee: EPP Error Reports
+Suggested assignee list: 
+EPP Error Reports
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Noopur Gupta
+Deepak Azad
+Timo Kinnunen
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Clifford Johnson
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Jay Arthanareeswaran
+Timo Kinnunen
+Deepak Azad
+Ayushman Jain
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Philipp Arndt
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Jay Arthanareeswaran
+Timo Kinnunen
+Deepak Azad
+Ayushman Jain
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Thierry Leriche
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Dani Megert
+Timo Kinnunen
+Deepak Azad
+Olivier Thomann
+Ayushman Jain
+Position in suggestion list: 1
+Actual assignee: Sean Van Gorder
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Jay Arthanareeswaran
+Timo Kinnunen
+Ayushman Jain
+Olivier Thomann
+Position in suggestion list: 14
+Actual assignee: Clovis Seragiotto
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Timo Kinnunen
+Ayushman Jain
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 20
+Actual assignee: Sean Van Gorder
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Jay Arthanareeswaran
+Ayushman Jain
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 60
+Actual assignee: Hendrik Brummermann
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Deepak Azad
+Noopur Gupta
+Jay Arthanareeswaran
+Frederic Fusier
+Michael Rennie
+Olivier Thomann
+Position in suggestion list: 420
+Actual assignee: Niko Paltzer
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Ayushman Jain
+Timo Kinnunen
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Siegmar Alber
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Jay Arthanareeswaran
+Ayushman Jain
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 44
+Actual assignee: Christoph K
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Deepak Azad
+Dani Megert
+Ayushman Jain
+Jay Arthanareeswaran
+Olivier Thomann
+Timo Kinnunen
+Position in suggestion list: 1
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Dani Megert
+Deepak Azad
+Olivier Thomann
+Ayushman Jain
+Timo Kinnunen
+Position in suggestion list: 3
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Jay Arthanareeswaran
+Timo Kinnunen
+Ayushman Jain
+Deepak Azad
+Olivier Thomann
+Position in suggestion list: 3
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Dani Megert
+Noopur Gupta
+Deepak Azad
+Ayushman Jain
+Olivier Thomann
+Timo Kinnunen
+EPP Error Reports
+Position in suggestion list: 2
+Actual assignee: Michael Case
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Ayushman Jain
+Deepak Azad
+Jay Arthanareeswaran
+Dani Megert
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Timo Kinnunen
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Timo Kinnunen
+Ayushman Jain
+Jay Arthanareeswaran
+Deepak Azad
+Dani Megert
+Olivier Thomann
+Position in suggestion list: 5
+Actual assignee: Lukas Eder
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Dani Megert
+Noopur Gupta
+Deepak Azad
+Ayushman Jain
+Jay Arthanareeswaran
+Olivier Thomann
+Timo Kinnunen
+Position in suggestion list: 18
+Actual assignee: Sebastian Stark
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Olivier Thomann
+Jay Arthanareeswaran
+Deepak Azad
+Timo Kinnunen
+Dani Megert
+EPP Error Reports
+Position in suggestion list: 1
+Actual assignee: Alexandre Montplaisir
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Dani Megert
+Noopur Gupta
+Deepak Azad
+Jay Arthanareeswaran
+Olivier Thomann
+Timo Kinnunen
+Ayushman Jain
+Position in suggestion list: 588
+Actual assignee: Marc-André Laperle
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Deepak Azad
+Noopur Gupta
+EPP Error Reports
+Timo Kinnunen
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 137
+Actual assignee: Marc-André Laperle
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Deepak Azad
+Ayushman Jain
+Jay Arthanareeswaran
+Dani Megert
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 426
+Actual assignee: Marcel Bruch
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Jay Arthanareeswaran
+Ayushman Jain
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 47
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Dani Megert
+Deepak Azad
+Ayushman Jain
+Olivier Thomann
+Timo Kinnunen
+Position in suggestion list: 3
+Actual assignee: Marcel Bruch
+Suggested assignee list: 
+Srikanth Sankaran
+Stephan Herrmann
+Markus Keller
+Dani Megert
+Noopur Gupta
+Jay Arthanareeswaran
+Deepak Azad
+Ayushman Jain
+Olivier Thomann
+Timo Kinnunen
+Position in suggestion list: 55
+Actual assignee: Thomas Schindl
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Deepak Azad
+Ayushman Jain
+Jay Arthanareeswaran
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 27
+Actual assignee: Yosef Bart
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Ayushman Jain
+Jay Arthanareeswaran
+Deepak Azad
+Dani Megert
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Marc-André Laperle
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Dani Megert
+Timo Kinnunen
+Noopur Gupta
+Deepak Azad
+Olivier Thomann
+Jay Arthanareeswaran
+EPP Error Reports
+Position in suggestion list: 204
+Actual assignee: Marc-André Laperle
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Deepak Azad
+Dani Megert
+Ayushman Jain
+Jay Arthanareeswaran
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 326
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Jay Arthanareeswaran
+Dani Megert
+Noopur Gupta
+Deepak Azad
+David Williams
+Michael Rennie
+Manoj Palat
+Position in suggestion list: 2
+Actual assignee: Thomas Schindl
+Suggested assignee list: 
+EPP Error Reports
+Markus Keller
+Noopur Gupta
+Srikanth Sankaran
+Timo Kinnunen
+Dani Megert
+Stephan Herrmann
+Sasikanth Bharadwaj
+Olivier Thomann
+Lukas Eder
+Position in suggestion list: 62
+Actual assignee: Marc-André Laperle
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Timo Kinnunen
+Deepak Azad
+Ayushman Jain
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 135
+Actual assignee: Marc-André Laperle
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Noopur Gupta
+Dani Megert
+Olivier Thomann
+Timo Kinnunen
+Deepak Azad
+Ayushman Jain
+Jay Arthanareeswaran
+Position in suggestion list: 233
+Actual assignee: Moritz Bechler
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Dani Megert
+Jay Arthanareeswaran
+Deepak Azad
+Ayushman Jain
+Frederic Fusier
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Stephan Herrmann
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Deepak Azad
+Dani Megert
+Ayushman Jain
+Timo Kinnunen
+Olivier Thomann
+Position in suggestion list: 3
+Actual assignee: EPP Error Reports
+Suggested assignee list: 
+EPP Error Reports
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Noopur Gupta
+Deepak Azad
+Timo Kinnunen
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 1
+Actual assignee: Stefan Xenos
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Timo Kinnunen
+Deepak Azad
+Noopur Gupta
+EPP Error Reports
+Olivier Thomann
+Ayushman Jain
+Position in suggestion list: 168
+Actual assignee: Stefan Xenos
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Dani Megert
+Deepak Azad
+Noopur Gupta
+Olivier Thomann
+Jay Arthanareeswaran
+Frederic Fusier
+EPP Error Reports
+Position in suggestion list: 130
+Actual assignee: Stefan Xenos
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Dani Megert
+Deepak Azad
+Frederic Fusier
+Noopur Gupta
+Ayushman Jain
+Jay Arthanareeswaran
+Olivier Thomann
+Position in suggestion list: 110
+Actual assignee: Lars Vogel
+Suggested assignee list: 
+Markus Keller
+Stephan Herrmann
+Srikanth Sankaran
+Dani Megert
+Deepak Azad
+Frederic Fusier
+Jay Arthanareeswaran
+Olivier Thomann
+Noopur Gupta
+Ayushman Jain
+Position in suggestion list: 16
+Actual assignee: Noopur Gupta
+Suggested assignee list: 
+Markus Keller
+Srikanth Sankaran
+Stephan Herrmann
+Dani Megert
+Deepak Azad
+Noopur Gupta
+Jay Arthanareeswaran
+Olivier Thomann
+Michael Rennie
+Ayushman Jain
+Position in suggestion list: 6
+Actual assignee: Lukas Eder
+Suggested assignee list: 
+Srikanth Sankaran
+Markus Keller
+Stephan Herrmann
+Noopur Gupta
+Jay Arthanareeswaran
+Timo Kinnunen
+Deepak Azad
+Dani Megert
+Ayushman Jain
+Olivier Thomann
+Position in suggestion list: 14
